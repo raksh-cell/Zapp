@@ -7,8 +7,7 @@ Zapp is a chill and fun quiz app built using Flutter. Whether you're vibing with
 - 🎯 Multiple-choice questions to challenge yourself
 - 🧠 Covers topics from general knowledge to random fun facts
 - 🌈 Clean and responsive UI 
-- 📊 Score tracking so you can flex your brainpower
-
+- 📊 Score display
 ## 🛠️ Built With
 
 - **Flutter** – for fast cross-platform dev
